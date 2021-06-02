@@ -8,3 +8,5 @@ No registration. Nothing to install.
 ## Example
 You can check the following server as an example:
 https://my-json-server.typicode.com/typicode/demo
+
+### You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
